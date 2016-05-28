@@ -1,0 +1,49 @@
+#task-table {
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+th,td {
+    padding: 15px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+#remove-button-container {
+    margin: 30px;
+}
+
+#start-button,#stop-button,#remove-button {
+    background-color: Salmon;
+    border: none;
+    color: white;
+    padding: 6px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 20px;
+    margin-top:10px;
+}
+
+#stop-button {
+    margin-left: 10px;
+}
+
+#start-button {
+    margin-left: 40px;
+}
+
+#task-name-textbox,#project-name-textbox {
+    margin-top: 20px;
+    padding: 6px 12px;
+    margin-left: 45px;
+}
+
+#project-name-textbox {
+    margin-left: 10px;
+}
+
+#table-container {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
