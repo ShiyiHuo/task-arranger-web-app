@@ -1,0 +1,22 @@
+{
+    "name":"task-arrager-web-app",
+    "description": "Time tracking of tasks built with node.js and HTML5",
+    "homepage": "https://github.com/ShiyiHuo/task-arranger-web-app",
+    "bugs": {
+        "url": "https://github.com/ShiyiHuo/task-arranger-web-app/issues",
+        "email": "shiyihuo@uvic.ca"
+    },
+    "repository" :
+    {
+        "type" : "git",
+        "url" : "https://github.com/ShiyiHuo/task-arranger-web-app.git"
+    },
+    "license": "Unlicense",
+    "author": "Shiyi Huo <shiyihuo@uvic.ca>",
+    "main": "server.js",
+
+    "dependencies": {
+        "body-parser": "^1.15.1",
+        "express": "^4.13.4"
+    }
+}
